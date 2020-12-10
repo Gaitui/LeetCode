@@ -111,7 +111,7 @@ class Solution {
 							temp.add(nums[i]);
 							temp.add(nums[x]);
 							ans.add(temp);
-                            break;
+                            				break;
 						}
 						else if(k+nums[x]>0)
 						{
